@@ -1,3 +1,3 @@
-# python-live-video-chat-with-machine-learning
+# python-live-streaming-with-machine-learning
 
 ![](tcp-server-client/image.png)
